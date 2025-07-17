@@ -55,6 +55,3 @@ This repository contains the code for a system that uses Meta's AI tools to anal
     npm start
     ```
 
-## License
-
-This project is licensed under the MIT License.
